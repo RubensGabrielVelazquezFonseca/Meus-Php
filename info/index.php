@@ -57,32 +57,32 @@
                <div class="form-container__checkbox-container">
                     <p>Escolha seus Hobbie: </p>
                     <section>
-                    <label for="imperative" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Imperativo" id="imperative">
+                    <label for="Anime" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Anime" id="Anime">
                             <span>Anime</span>
                         </label>
-                        <label for="declarative" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Declarativo" id="declarative">
+                        <label for="Manga" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Manga" id="Manga">
                             <span>Manga</span>
                         </label>
-                        <label for="functional" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Funcional" id="functional">
+                        <label for="Light Novel" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Light Novel" id="Light Novel">
                             <span>Light Novel</span>
                         </label>
-                        <label for="logical" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Lógico" id="logical">
+                        <label for="Fanfic" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Fanfic" id="Fanfic">
                             <span>Fanfic</span>
                         </label>
-                        <label for="object-oriented" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Orientado a Objetos" id="object-oriented">
+                        <label for="Jogar Video Game" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Jogar Video Game" id="Jogar Video Game">
                             <span>Jogar Video Game</span>
                         </label>
                     </section>
                 </div>
                 <div class="form-container__input-container-wrapper">
                     <div class="form-container__input-container" data-select>
-                        <input name="programming-language" id="programming-language" type="text" required class="multiple-select-wrapper">
-                        <label for="programming-language">
+                        <input name="programming_oo" id="programming_oo" type="text" required class="multiple-select-wrapper">
+                        <label for="programming_oo">
                             <strong>Preferencia em tema: </strong>
                         </label>
                     </div>
@@ -92,32 +92,32 @@
                <div class="form-container__checkbox-container">
                     <p>Escolha seu Esporte: </p>
                     <section>
-                        <label for="imperative" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Imperativo" id="imperative">
+                        <label for="Futebol" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Futebol" id="Futebol">
                             <span>Futebol</span>
                         </label>
-                        <label for="declarative" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Declarativo" id="declarative">
+                        <label for="Basquete" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Basquete" id="Basquete">
                             <span>Basquete</span>
                         </label>
-                        <label for="functional" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Funcional" id="functional">
+                        <label for="Handebol" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Handebol" id="Handebol">
                             <span>Handebol</span>
                         </label>
-                        <label for="logical" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Lógico" id="logical">
+                        <label for="Tenis" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Tenis" id="Tenis">
                             <span>Tenis</span>
                         </label>
-                        <label for="object-oriented" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Orientado a Objetos" id="object-oriented">
+                        <label for="Ping Pong" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Ping Pong" id="Ping Pong">
                             <span>Ping Pong</span>
                         </label>
                     </section>
                 </div>
                 <div class="form-container__input-container-wrapper">
                     <div class="form-container__input-container" data-select>
-                        <input name="programming-language" id="programming-language" type="text" required class="multiple-select-wrapper">
-                        <label for="programming-language">
+                        <input name="programming_oo" id="programming_oo" type="text" required class="multiple-select-wrapper">
+                        <label for="programming_oo">
                             <strong>Preferencia modalide: </strong>
                         </label>
                     </div>
@@ -127,32 +127,32 @@
                <div class="form-container__checkbox-container">
                     <p>Escolha seu Caro: </p>
                     <section>
-                        <label for="imperative" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Imperativo" id="imperative">
+                        <label for="Fusca" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Fusca" id="Fusca">
                             <span>Fusca</span>
                         </label>
-                        <label for="declarative" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Declarativo" id="declarative">
+                        <label for="Picape" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Picape" id="Picape">
                             <span>Picape</span>
                         </label>
-                        <label for="functional" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Funcional" id="functional">
+                        <label for="Hatch" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Hatch" id="Hatch">
                             <span>Hatch</span>
                         </label>
-                        <label for="logical" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Lógico" id="logical">
+                        <label for="Cupê" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Cupê" id="Cupê">
                             <span>Cupê</span>
                         </label>
-                        <label for="object-oriented" class="form-container__input-container__checkbox">
-                            <input type="checkbox" name="programming-paradigms[]" value="Orientado a Objetos" id="object-oriented">
+                        <label for="Jipe" class="form-container__input-container__checkbox">
+                            <input type="checkbox" name="programming_ss[]" value="Jipe" id="Jipe">
                             <span>Jipe</span>
                         </label>
                     </section>
                 </div>
                 <div class="form-container__input-container-wrapper">
                     <div class="form-container__input-container" data-select>
-                        <input name="programming-language" id="programming-language" type="text" required class="multiple-select-wrapper">
-                        <label for="programming-language">
+                        <input name="programming_oo" id="programming_oo" type="text" required class="multiple-select-wrapper">
+                        <label for="programming_oo">
                             <strong>Marca: </strong>
                         </label>
                     </div>
